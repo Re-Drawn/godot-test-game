@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cinluu1aw3hqs"
+path="res://.godot/imported/game menu 1 finalized (2).mp3-aef4a956542d1958a1f8b9dfcea1e1fa.mp3str"
+
+[deps]
+
+source_file="res://game menu 1 finalized (2).mp3"
+dest_files=["res://.godot/imported/game menu 1 finalized (2).mp3-aef4a956542d1958a1f8b9dfcea1e1fa.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
